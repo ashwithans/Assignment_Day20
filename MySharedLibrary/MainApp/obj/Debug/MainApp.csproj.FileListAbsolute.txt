@@ -1,0 +1,10 @@
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\bin\Debug\MainApp.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\bin\Debug\MySharedLibrary.dll
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\bin\Debug\MySharedLibrary.pdb
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\obj\Debug\MainApp.exe
+C:\Users\Ashwitha\Desktop\Assignment\Assignment Day 20\MySharedLibrary\MainApp\obj\Debug\MainApp.pdb
